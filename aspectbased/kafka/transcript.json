@@ -1,0 +1,56 @@
+{
+  "sessionId": "call-1001",
+  "lang": "en-us",
+  "startTime": 1586064266000,
+  "payload": "text",
+  "aspects": [
+    "hi",
+    "good"
+  ],
+  "turns": [
+    {
+      "order": 1,
+      "speaker": "Agent",
+      "startOffset": 1100,
+      "endOffset": 5980,
+      "words": [
+        {
+          "text": "hi",
+          "startOffset": 1100,
+          "endOffset": 1260,
+          "confidence": 100
+        },
+        {
+          "text": "good",
+          "startOffset": 1260,
+          "endOffset": 1500,
+          "confidence": 100
+        }
+      ]
+    },
+    {
+      "order": 1,
+      "speaker": "Customer",
+      "startOffset": 6780,
+      "endOffset": 12380,
+      "words": [
+        {
+          "text": "hi",
+          "startOffset": 6780,
+          "endOffset": 7040,
+          "confidence": 100
+        },
+        {
+          "text": "Michael",
+          "startOffset": 7040,
+          "endOffset": 7660,
+          "confidence": 100
+        }
+      ]
+    }
+  ],
+  "wsText": [],
+  "metaData": {},
+  "isLastChunk": true,
+  "isChunk": true
+}

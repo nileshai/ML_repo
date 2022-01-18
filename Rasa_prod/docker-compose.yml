@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    image: registry.uniphore.com/uniphore/nlp/transcript_preprocess:1.4.1.0
+    volumes:
+      - ./res:/app/res
+    ports:
+      - "5122:5123"
+    command: "python3 ./api.py"

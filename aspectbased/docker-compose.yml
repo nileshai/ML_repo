@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+
+  aspect-based-sentiment-recognize:
+    image: registry.uniphore.com/uniphore/nlp/aspect-based-sentiment-recognize:1.0.0.0
+    container_name: aspect-based-sentiment-recognize
+    ports:
+      - "10002:10002"
+    networks:
+      - uniphore_network
+    deploy:
+      mode: replicated
+      replicas: 1
+      endpoint_mode: dnsrr
+      placement:
+        max_replicas_per_node: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
+    environment:
+        #CONFIG_FILE:./config.ini
+      KAFKA_BROKER_LIST: ip-10-0-0-4.us-east-2.compute.internal:9094
+      INPUT_TOPIC: sentiment_consumer
+      OUTPUT_TOPIC: sentiment_producer
+      LOG_LEVEL: INFO
+      LOG_FILE: ./sentiment.log
+    extra_hosts:      
+      - platform-dev-nlp001.uniphore.com:3.130.242.187      
+      - ip-10-0-0-4.us-east-2.compute.internal:13.59.102.203
+networks:
+  uniphore_network:
+
