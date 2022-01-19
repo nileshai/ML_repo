@@ -1,0 +1,456 @@
+# 24/7 Customer, Inc. Confidential, Do Not Distribute. This is an unpublished,
+# proprietary work which is fully protected under copyright law. This code may
+# only be used pursuant to a valid license from 24/7 Customer, Inc.
+
+# Machine generated ï¿½ do not edit!
+
+[file-type,1]
+0,classifier-model
+
+[version,1]
+0,2.0
+
+[algorithm,1]
+0,svm
+
+[feature-type,1]
+0,all
+
+[classes,2]
+0,access_vague,-0.12458313
+1,login_vague,0.12463739
+
+[default-class,1]
+0,0
+
+[sigmoid-params,2]
+0,-2.4796125365044457,0.6025431702272132
+1,-2.4791600130764873,-0.6024949677698702
+
+[stop-words,56]
+0,com
+1,hi
+2,been
+3,had
+4,yeah
+5,wondering
+6,uh
+7,would
+8,um
+9,should
+10,has
+11,if
+12,you
+13,i have
+14,which
+15,having
+16,it's
+17,myself
+18,want
+19,we have
+20,shall
+21,is
+22,it
+23,my
+24,wanna
+25,an
+26,we've
+27,were
+28,hello
+29,i've
+30,be
+31,it is
+32,why
+33,i'm
+34,i need
+35,can
+36,how
+37,are
+38,by
+39,have
+40,oh
+41,where
+42,just
+43,mine
+44,a
+45,i feel
+46,could
+47,yes
+48,f
+49,was
+50,i
+51,way
+52,the
+53,what
+54,s
+55,to
+
+[stems,78]
+0,loadings,load
+1,fails,fail
+2,responding,respond
+3,workings,work
+4,working,work
+5,issues,issue
+6,logged,log
+7,keeps,keep
+8,am,be
+9,trying,try
+10,getting,get
+11,loading,load
+12,locked,lock
+13,accessing,access
+14,expired,expire
+15,throwing,throw
+16,failed,fail
+17,what ve,what have
+18,can t,cannot
+19,she s,she is
+20,what re,what are
+21,o clock,clock
+22,wouldn t,would not
+23,it s,it is
+24,let s,let us
+25,aren t,are not
+26,ain t,be not
+27,you re,you are
+28,when ll,when will
+29,you ve,you have
+30,he s,he has
+31,mustn t,must not
+32,wasn t,was not
+33,isn t,is not
+34,we d,we would
+35,i ll,i will
+36,who re,who are
+37,we ll,we will
+38,hadn t,had not
+39,won t,will not
+40,who s,who is
+41,who ve,who have
+42,he d,he would
+43,shan t,shall not
+44,they ve,they have
+45,doesn t,does not
+46,they d,they would
+47,there s,there is
+48,where s,where is
+49,they re,they are
+50,who d,who would
+51,y all,you all
+52, em,them
+53,mightn t,might not
+54,couldn t,could not
+55,she ll,she will
+56,what ll,what will
+57,who ll,who will
+58,don t,do not
+59,that s,that is
+60,he ll,he will
+61,haven t,have not
+62,ya all,you all
+63,they ll,they will
+64,hasn t,has not
+65,i d,i would
+66,you ll,you will
+67,what s,what is
+68,she d,she would
+69,weren t,were not
+70,when s,when is
+71,i ve,i have
+72,i m,i be
+73,didn t,did not
+74,we ve,we have
+75,shouldn t,should not
+76,we re,we are
+77,you d,you would
+
+[features,288]
+0,unable & _class_se,0:0.148,1:-0.148
+1,out + _class_se,0:-0.2,1:0.2
+2,troubel,0:-0.292,1:0.292
+3,page & respond,0:-0.078,1:0.078
+4,not + accessible + _class_se,0:0.152,1:-0.152
+5,error + when + _class_login,0:-0.063,1:0.063
+6,don + t,0:0.009,1:-0.009
+7,_class_ss & access,0:0.064,1:-0.064
+8,_class_ss + t + access,0:0.035,1:-0.035
+9,_class_ss + error,0:-0.063,1:0.063
+10,log + out + _class_se,0:-0.064,1:0.064
+11,let,0:0.022,1:-0.022
+12,_class_ss + not,0:0.029,1:-0.029
+13,app,0:-0.083,1:0.083
+14,_class_ss + will,0:0.022,1:-0.022
+15,_class_login + issue,0:0.099,1:-0.099
+16,throw & _class_se,0:-0.031,1:0.031
+17,_class_ss + lock + out,0:-0.105,1:0.105
+18,_class_ss + keep,0:-0.031,1:0.031
+19,don & _class_se,0:0.009,1:-0.009
+20,able & link,0:-0.123,1:0.123
+21,_class_ss + troubel + access,0:-0.292,1:0.292
+22,expire,0:-0.117,1:0.117
+23,_class_ss + log + out,0:-0.064,1:0.064
+24,get + error,0:-0.077,1:0.077
+25,try + _class_login + _class_se,0:-0.231,1:0.231
+26,_class_login,0:0.018,1:-0.018
+27,not & _class_se,0:-0.034,1:0.034
+28,accessible,0:0.152,1:-0.152
+29,try + access + _class_se,0:0.157,1:-0.157
+30,not + work + _class_se,0:-0.083,1:0.083
+31,access,0:0.277,1:-0.277
+32,will & let,0:0.022,1:-0.022
+33,app & work,0:-0.083,1:0.083
+34,expire + _class_se,0:-0.117,1:0.117
+35,page + _class_se,0:-0.055,1:0.055
+36,reset + _class_login + _class_se,0:0.181,1:-0.181
+37,session + expire + _class_se,0:-0.117,1:0.117
+38,_class_ss & error,0:-0.077,1:0.077
+39,m & able,0:0.076,1:-0.076
+40,_class_ss & t,0:0.009,1:-0.009
+41,_class_ss & link,0:-0.123,1:0.123
+42,_class_ss & session,0:-0.117,1:0.117
+43,_class_ss & let,0:0.022,1:-0.022
+44,no & _class_se,0:0.041,1:-0.041
+45,_class_ss + cannot + get,0:0.069,1:-0.069
+46,_class_ss + account + lock,0:0.109,1:-0.109
+47,_class_ss + error + when,0:-0.063,1:0.063
+48,_class_ss + will + not,0:0.022,1:-0.022
+49,m,0:0.076,1:-0.076
+50,problem + _class_se,0:0.092,1:-0.092
+51,t,0:0.044,1:-0.044
+52,throw,0:-0.031,1:0.031
+53,_class_ss + cannot + log,0:-0.141,1:0.141
+54,error + _class_login + _class_se,0:-0.077,1:0.077
+55,_class_ss & _class_login,0:-0.372,1:0.372
+56,keep + throw + me,0:-0.031,1:0.031
+57,not + let,0:0.022,1:-0.022
+58,_class_ss + page + not,0:-0.078,1:0.078
+59,access + _class_se,0:0.286,1:-0.286
+60,_class_ss & with,0:0.071,1:-0.071
+61,_class_ss + trouble + _class_login,0:-0.153,1:0.153
+62,_class_ss + lock,0:-0.105,1:0.105
+63,cannot & _class_se,0:-0.072,1:0.072
+64,_class_ss + no,0:0.041,1:-0.041
+65,_class_ss & me,0:-0.009,1:0.009
+66,unable,0:0.148,1:-0.148
+67,error + when,0:-0.063,1:0.063
+68,able + access,0:-0.047,1:0.047
+69,_class_ss + try + _class_login,0:-0.231,1:0.231
+70,_class_ss & online,0:-0.197,1:0.197
+71,with + access,0:0.071,1:-0.071
+72,_class_ss + troubel,0:-0.292,1:0.292
+73,m + not + able,0:0.076,1:-0.076
+74,able + access + link,0:-0.123,1:0.123
+75,troubel & _class_se,0:-0.292,1:0.292
+76,app & _class_se,0:-0.083,1:0.083
+77,troubel + access + _class_se,0:-0.292,1:0.292
+78,not & me,0:0.022,1:-0.022
+79,lock + out,0:-0.105,1:0.105
+80,_class_login + session,0:-0.117,1:0.117
+81,app + not,0:-0.083,1:0.083
+82,reset & _class_se,0:0.181,1:-0.181
+83,me + out + _class_se,0:-0.031,1:0.031
+84,_class_ss + keep + throw,0:-0.031,1:0.031
+85,t + access + _class_se,0:0.044,1:-0.044
+86,throw + me,0:-0.031,1:0.031
+87,not + work,0:-0.083,1:0.083
+88,page,0:-0.133,1:0.133
+89,_class_ss & page,0:-0.055,1:0.055
+90,accessible + _class_se,0:0.152,1:-0.152
+91,not + respond,0:-0.078,1:0.078
+92,_class_ss + problem,0:-0.16,1:0.16
+93,throw & out,0:-0.031,1:0.031
+94,cannot & access,0:0.069,1:-0.069
+95,when & _class_se,0:-0.063,1:0.063
+96,session,0:-0.117,1:0.117
+97,_class_login + _class_se,0:0.146,1:-0.146
+98,when + _class_login,0:-0.063,1:0.063
+99,access & _class_se,0:-0.009,1:0.009
+100,will + not,0:0.022,1:-0.022
+101,access + link,0:-0.123,1:0.123
+102,log + out,0:-0.064,1:0.064
+103,_class_ss + reset,0:0.181,1:-0.181
+104,not,0:-0.034,1:0.034
+105,load,0:-0.055,1:0.055
+106,_class_login + online + _class_se,0:-0.197,1:0.197
+107,_class_ss + access + _class_se,0:0.099,1:-0.099
+108,trouble,0:-0.153,1:0.153
+109,_class_ss & expire,0:-0.117,1:0.117
+110,don & access,0:0.009,1:-0.009
+111,_class_ss + page,0:-0.078,1:0.078
+112,m & _class_se,0:0.076,1:-0.076
+113,trouble + _class_login + _class_se,0:-0.153,1:0.153
+114,_class_ss + account,0:0.109,1:-0.109
+115,_class_ss + access + fail,0:0.022,1:-0.022
+116,with,0:0.071,1:-0.071
+117,with + access + _class_se,0:0.071,1:-0.071
+118,troubel + access,0:-0.292,1:0.292
+119,me & _class_se,0:-0.009,1:0.009
+120,app + not + work,0:-0.083,1:0.083
+121,problem + with + access,0:0.071,1:-0.071
+122,m + not,0:0.076,1:-0.076
+123,account + lock,0:0.109,1:-0.109
+124,keep & out,0:-0.031,1:0.031
+125,_class_ss & accessible,0:0.152,1:-0.152
+126,lock + _class_se,0:0.109,1:-0.109
+127,_class_ss + access,0:0.213,1:-0.213
+128,_class_ss + problem + with,0:0.071,1:-0.071
+129,_class_ss + try,0:-0.074,1:0.074
+130,will & access,0:0.022,1:-0.022
+131,page + not,0:-0.078,1:0.078
+132,trouble & _class_se,0:-0.153,1:0.153
+133,will & me,0:0.022,1:-0.022
+134,when,0:-0.063,1:0.063
+135,let + me,0:0.022,1:-0.022
+136,_class_ss + t,0:0.035,1:-0.035
+137,problem,0:-0.068,1:0.068
+138,no + access,0:0.041,1:-0.041
+139,issue + _class_se,0:0.099,1:-0.099
+140,_class_ss & when,0:-0.063,1:0.063
+141,_class_login & _class_se,0:-0.127,1:0.127
+142,lock,0:0.004,1:-0.004
+143,_class_ss + problem + _class_login,0:-0.176,1:0.176
+144,_class_ss & problem,0:0.092,1:-0.092
+145,able & _class_se,0:-0.047,1:0.047
+146,_class_ss & issue,0:0.099,1:-0.099
+147,keep & _class_se,0:-0.031,1:0.031
+148,try + _class_login,0:-0.231,1:0.231
+149,unable + _class_login + _class_se,0:0.345,1:-0.345
+150,_class_ss & fail,0:0.11,1:-0.11
+151,_class_ss & not,0:-0.063,1:0.063
+152,unable + _class_login + online,0:-0.197,1:0.197
+153,issue,0:0.099,1:-0.099
+154,work,0:-0.083,1:0.083
+155,me + access,0:0.022,1:-0.022
+156,_class_ss & lock,0:0.109,1:-0.109
+157,_class_ss + problem + load,0:-0.055,1:0.055
+158,fail,0:0.11,1:-0.11
+159,_class_ss & respond,0:-0.078,1:0.078
+160,problem + load + page,0:-0.055,1:0.055
+161,account & _class_se,0:0.109,1:-0.109
+162,don + t + access,0:0.009,1:-0.009
+163,not + respond + _class_se,0:-0.078,1:0.078
+164,reset,0:0.181,1:-0.181
+165,cannot + log,0:-0.141,1:0.141
+166,_class_ss & work,0:-0.083,1:0.083
+167,get & _class_login,0:-0.077,1:0.077
+168,don,0:0.009,1:-0.009
+169,_class_ss + _class_login + issue,0:0.099,1:-0.099
+170,problem + _class_login,0:-0.176,1:0.176
+171,log,0:-0.205,1:0.205
+172,lock + out + _class_se,0:-0.105,1:0.105
+173,not + able,0:-0.047,1:0.047
+174,get + access + _class_se,0:0.069,1:-0.069
+175,out,0:-0.2,1:0.2
+176,_class_login & expire,0:-0.117,1:0.117
+177,get,0:-0.008,1:0.009
+178,let & access,0:0.022,1:-0.022
+179,cannot + get + access,0:0.069,1:-0.069
+180,work + _class_se,0:-0.083,1:0.083
+181,me + access + _class_se,0:0.022,1:-0.022
+182,problem + _class_login + _class_se,0:-0.176,1:0.176
+183,access + problem + _class_se,0:0.092,1:-0.092
+184,try & _class_se,0:-0.074,1:0.074
+185,error + _class_login,0:-0.077,1:0.077
+186,_class_login + fail,0:0.088,1:-0.088
+187,_class_ss & load,0:-0.055,1:0.055
+188,when + _class_login + _class_se,0:-0.063,1:0.063
+189,_class_ss + app,0:-0.083,1:0.083
+190,_class_ss + reset + _class_login,0:0.181,1:-0.181
+191,keep + throw,0:-0.031,1:0.031
+192,error & _class_se,0:-0.141,1:0.141
+193,able,0:-0.047,1:0.047
+194,unable + _class_login,0:0.148,1:-0.148
+195,cannot,0:-0.072,1:0.072
+196,not & link,0:-0.123,1:0.123
+197,with & _class_se,0:0.071,1:-0.071
+198,_class_ss + don + t,0:0.009,1:-0.009
+199,session + expire,0:-0.117,1:0.117
+200,problem & _class_se,0:-0.16,1:0.16
+201,unable & online,0:-0.197,1:0.197
+202,load + page,0:-0.055,1:0.055
+203,problem & page,0:-0.055,1:0.055
+204,_class_login + online,0:-0.197,1:0.197
+205,access + problem,0:0.092,1:-0.092
+206,_class_ss + log,0:-0.064,1:0.064
+207,cannot + log + _class_se,0:-0.141,1:0.141
+208,able + access + _class_se,0:0.076,1:-0.076
+209,_class_ss + don,0:0.009,1:-0.009
+210,_class_ss + get + error,0:-0.077,1:0.077
+211,me,0:-0.009,1:0.009
+212,load + page + _class_se,0:-0.055,1:0.055
+213,get + error + _class_login,0:-0.077,1:0.077
+214,_class_ss & get,0:0.069,1:-0.069
+215,_class_ss + get,0:-0.077,1:0.077
+216,_class_ss + trouble,0:-0.153,1:0.153
+217,_class_ss & out,0:-0.2,1:0.2
+218,let & _class_se,0:0.022,1:-0.022
+219,_class_ss + unable,0:0.148,1:-0.148
+220,log + _class_se,0:-0.141,1:0.141
+221,_class_ss & log,0:-0.141,1:0.141
+222,page & _class_se,0:-0.078,1:0.078
+223,problem + load,0:-0.055,1:0.055
+224,t + access,0:0.044,1:-0.044
+225,get & _class_se,0:-0.008,1:0.009
+226,will & _class_se,0:0.022,1:-0.022
+227,keep & me,0:-0.031,1:0.031
+228,no + access + _class_se,0:0.041,1:-0.041
+229,session & _class_se,0:-0.117,1:0.117
+230,keep,0:-0.031,1:0.031
+231,try,0:-0.074,1:0.074
+232,trouble + _class_login,0:-0.153,1:0.153
+233,_class_login + session + expire,0:-0.117,1:0.117
+234,respond + _class_se,0:-0.078,1:0.078
+235,throw + me + out,0:-0.031,1:0.031
+236,_class_ss + _class_login + fail,0:0.088,1:-0.088
+237,load & _class_se,0:-0.055,1:0.055
+238,no,0:0.041,1:-0.041
+239,_class_ss + no + access,0:0.041,1:-0.041
+240,will + not + let,0:0.022,1:-0.022
+241,link,0:-0.123,1:0.123
+242,get + access,0:0.069,1:-0.069
+243,cannot + get,0:0.069,1:-0.069
+244,problem & access,0:0.071,1:-0.071
+245,error,0:-0.141,1:0.141
+246,_class_ss + not + accessible,0:0.152,1:-0.152
+247,_class_ss + access + problem,0:0.092,1:-0.092
+248,_class_ss + try + access,0:0.157,1:-0.157
+249,problem + with,0:0.071,1:-0.071
+250,_class_ss + _class_login + _class_se,0:0.321,1:-0.321
+251,account + lock + _class_se,0:0.109,1:-0.109
+252,_class_ss + unable + _class_login,0:0.148,1:-0.148
+253,_class_ss + cannot,0:-0.072,1:0.072
+254,_class_login + fail + _class_se,0:0.088,1:-0.088
+255,access + link + _class_se,0:-0.123,1:0.123
+256,fail + _class_se,0:0.11,1:-0.11
+257,error & _class_login,0:-0.063,1:0.063
+258,not + able + access,0:-0.047,1:0.047
+259,_class_ss + _class_login + session,0:-0.117,1:0.117
+260,_class_ss + not + able,0:-0.123,1:0.123
+261,_class_login + issue + _class_se,0:0.099,1:-0.099
+262,lock & _class_se,0:-0.105,1:0.105
+263,page + not + respond,0:-0.078,1:0.078
+264,m & access,0:0.076,1:-0.076
+265,try + access,0:0.157,1:-0.157
+266,_class_ss & throw,0:-0.031,1:0.031
+267,not & access,0:-0.025,1:0.025
+268,will,0:0.022,1:-0.022
+269,not + let + me,0:0.022,1:-0.022
+270,_class_ss + m,0:0.076,1:-0.076
+271,online + _class_se,0:-0.197,1:0.197
+272,t & _class_se,0:0.044,1:-0.044
+273,access + fail,0:0.022,1:-0.022
+274,not + accessible,0:0.152,1:-0.152
+275,_class_ss + m + not,0:0.076,1:-0.076
+276,link + _class_se,0:-0.123,1:0.123
+277,me + out,0:-0.031,1:0.031
+278,access + fail + _class_se,0:0.022,1:-0.022
+279,_class_ss + _class_login,0:0.391,1:-0.391
+280,log & _class_se,0:-0.064,1:0.064
+281,_class_ss + app + not,0:-0.083,1:0.083
+282,reset + _class_login,0:0.181,1:-0.181
+283,online,0:-0.197,1:0.197
+284,let + me + access,0:0.022,1:-0.022
+285,respond,0:-0.078,1:0.078
+286,account,0:0.109,1:-0.109
+287,_class_ss & able,0:-0.047,1:0.047

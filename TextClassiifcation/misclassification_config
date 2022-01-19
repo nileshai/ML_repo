@@ -1,0 +1,6 @@
+## Don't edit the following line
+[params]
+
+workbench_folder_path=/home/tamara.hahn/ebayDE/out_AllUtts
+output_folder=/home/anmol.walia/eBayDE_results
+misclassification_cost_file=/home/anmol.walia/misclassification_cost.csv

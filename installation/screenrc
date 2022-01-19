@@ -1,0 +1,4 @@
+##file used by screen command for settings
+##file to be kept as ~/.screenrc
+defscrollback 10000
+term "screen-256color"

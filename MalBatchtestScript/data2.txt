@@ -1,0 +1,222 @@
+filename	transcript	rutag	rutag
+SynData23Nov_00579	Do you have a veteran discount?	Announcements_Military	Announcements_Military
+SynData23Nov_00580	Can I get a discount for being a veteran?	Announcements_Military	Announcements_Military
+SynData23Nov_00581	What is your military discount?	Announcements_Military	Announcements_Military
+SynData23Nov_00582	Do you give veterans a discount?	Announcements_Military	Announcements_Military
+SynData23Nov_00583	Discount for military	Announcements_Military	Announcements_Military
+SynData23Nov_00584	Discount for veterans	Announcements_Military	Announcements_Military
+SynData23Nov_00585	Discount for army 	Announcements_Military	Announcements_Military
+SynData23Nov_00586	Do you guys do military discounts?	Announcements_Military	Announcements_Military
+SynData23Nov_00587	Do you guys give military discounts? 	Announcements_Military	Announcements_Military
+SynData23Nov_00588	Do you guys give discounts to military?	Announcements_Military	Announcements_Military
+SynData23Nov_00589	Does Columbia offer military discounts?	Announcements_Military	Announcements_Military
+SynData23Nov_00590	Does Columbia give military discounts?	Announcements_Military	Announcements_Military
+SynData23Nov_00591	Does Columbia offer discounts to military?	Announcements_Military	Announcements_Military
+SynData23Nov_00592	Does Columbia offer discounts to active duty military?	Announcements_Military	Announcements_Military
+SynData23Nov_00593	Do you offer discounts to active duty military?	Announcements_Military	Announcements_Military
+SynData23Nov_00594	Do you guys offer discounts to active duty military?	Announcements_Military	Announcements_Military
+SynData23Nov_00595	Does Columbia offer discounts to active duty military?	Announcements_Military	Announcements_Military
+SynData23Nov_00596	Do you offer discounts to veterans?	Announcements_Military	Announcements_Military
+SynData23Nov_00597	Do you guys offer discounts to veterans?	Announcements_Military	Announcements_Military
+SynData23Nov_00598	Does Columbia offer discounts to veterans?	Announcements_Military	Announcements_Military
+SynData23Nov_00599	Do you offer veteran discounts?	Announcements_Military	Announcements_Military
+SynData23Nov_00600	Do you offer discounts to military personnel?	Announcements_Military	Announcements_Military
+SynData23Nov_00601	Do you guys offer discounts to military personnel?	Announcements_Military	Announcements_Military
+SynData23Nov_00602	Does Columbia offer discounts to military personnel?	Announcements_Military	Announcements_Military
+SynData23Nov_00603	Do I need to treat my boots?	Apparel_Care	Apparel_Care
+SynData23Nov_00604	Are your boots pre treated?	Apparel_Care	Apparel_Care
+SynData23Nov_00605	Am I going to need to treat my boots?	Apparel_Care	Apparel_Care
+SynData23Nov_00606	Can I wash a fur hood?	Apparel_Care	Apparel_Care
+SynData23Nov_00607	How do I wash a fur hood?	Apparel_Care	Apparel_Care
+SynData23Nov_00608	How should I wash my pillow?	Apparel_Care	Apparel_Care
+SynData23Nov_00609	Are your cotton products pre shrunk?	Apparel_Care	Apparel_Care
+SynData23Nov_00610	Is my jacket stain proof?	Apparel_Care	Apparel_Care
+SynData23Nov_00611	How do I care for my fleece jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00612	What's the best way to wash my hiking boots?	Apparel_Care	Apparel_Care
+SynData23Nov_00613	Will my jacket shrink if I wash it?	Apparel_Care	Apparel_Care
+SynData23Nov_00614	How do I wash this jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00615	How do I wash your down jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00616	How do I wash a down jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00617	Can I wash your down jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00618	Can I wash a down jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00619	Do I have to hand wash your jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00620	Do I have to hand wash this jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00621	Do I have to hand wash down jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00622	Do I need to hand wash this jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00623	Do I need to hand wash down jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00624	How can I remove a stain from my jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00625	How do I remove a stain from my jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00626	How can I remove a stain from one of your jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00627	How do I remove a stain from one of your jackets?	Apparel_Care	Apparel_Care
+SynData23Nov_00628	How do I wash fleece?	Apparel_Care	Apparel_Care
+SynData23Nov_00629	Do I have to hand wash fleece?	Apparel_Care	Apparel_Care
+SynData23Nov_00630	How do I wash a fleece jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00631	How do I wash my windbreaker?	Apparel_Care	Apparel_Care
+SynData23Nov_00632	How do I wash my Columbia windbreaker?	Apparel_Care	Apparel_Care
+SynData23Nov_00633	How do I wash one of your windbreakers?	Apparel_Care	Apparel_Care
+SynData23Nov_00634	How do I care for my new windbreaker?	Apparel_Care	Apparel_Care
+SynData23Nov_00635	Can I put this in a dryer?	Apparel_Care	Apparel_Care
+SynData23Nov_00636	Can I put my windbreaker in a dryer?	Apparel_Care	Apparel_Care
+SynData23Nov_00637	Can I put a Columbia windbreaker in the dryer?	Apparel_Care	Apparel_Care
+SynData23Nov_00638	How do I store my jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00639	How do I store my down jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00640	How can I store my trekking boots?	Apparel_Care	Apparel_Care
+SynData23Nov_00641	What do I use to wash my jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00642	What do I use to wash my fleece?	Apparel_Care	Apparel_Care
+SynData23Nov_00643	What do I use to wash my windbreaker?	Apparel_Care	Apparel_Care
+SynData23Nov_00644	What type of detergent do I use to wash my jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00645	What type of detergent do I use to wash my fleece?	Apparel_Care	Apparel_Care
+SynData23Nov_00646	What type of detergent do I use to wash my down jacket?	Apparel_Care	Apparel_Care
+SynData23Nov_00647	What type of detergent do I use to wash your products?	Apparel_Care	Apparel_Care
+SynData23Nov_00648	Are Columbia boots waterproof?	Apparel_Care	Apparel_Care
+SynData23Nov_00649	Are Sorel boots waterproof?	Apparel_Care	Apparel_Care
+SynData23Nov_00650	Are these boots waterproof?	Apparel_Care	Apparel_Care
+SynData23Nov_00651	How can I clean my Sorel boot liners?	Boots_Care	Boots_Care
+SynData23Nov_00652	How can I clean these boots?	Boots_Care	Boots_Care
+SynData23Nov_00653	How can I clean these boot liners?	Boots_Care	Boots_Care
+SynData23Nov_00654	How do I clean these boot liners?	Boots_Care	Boots_Care
+SynData23Nov_00655	How do you clean these boot liners?	Boots_Care	Boots_Care
+SynData23Nov_00656	Are the Sorel boot liners washable?	Boots_Care	Boots_Care
+SynData23Nov_00657	Are the Sorel boot liners machine washable?	Boots_Care	Boots_Care
+SynData23Nov_00658	Are the boot liners washable?	Boots_Care	Boots_Care
+SynData23Nov_00659	Are the boot liners machine washable?	Boots_Care	Boots_Care
+SynData23Nov_00660	Can the Sorel boot liners be put in the dryer?	Boots_Care	Boots_Care
+SynData23Nov_00661	Can these boot liners be put in the dryer?	Boots_Care	Boots_Care
+SynData23Nov_00662	Can I put the bootliners in the dryer?	Boots_Care	Boots_Care
+SynData23Nov_00663	Can I put the boot liners in the washer?	Boots_Care	Boots_Care
+SynData23Nov_00664	Can I put the boot liners in the washing machine?	Boots_Care	Boots_Care
+SynData23Nov_00665	What's the hashtag for the bonus points?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00666	What's the @ name for the social media for Columba?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00667	Who do I tag for the social media points?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00668	Do I have to tag you and use the hashtag for the bonus points?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00669	Will I earn points for both Columbia and SOREL with one post	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00670	social media?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00671	How do i link my social media to my account?	Chirpify_BonusPoints	Chirpify_BonusPoints
+SynData23Nov_00672	When do you guys open?	Contact_Us	Contact_Us
+SynData23Nov_00673	When does Columbia open?	Contact_Us	Contact_Us
+SynData23Nov_00674	When does Columbia close?	Contact_Us	Contact_Us
+SynData23Nov_00675	When does Sorel open?	Contact_Us	Contact_Us
+SynData23Nov_00676	When does Sorel close?	Contact_Us	Contact_Us
+SynData23Nov_00677	When are your hours of operation?	Contact_Us	Contact_Us
+SynData23Nov_00678	What's your number?	Contact_Us	Contact_Us
+SynData23Nov_00679	What's your email?	Contact_Us	Contact_Us
+SynData23Nov_00680	What's your email address?	Contact_Us	Contact_Us
+SynData23Nov_00681	What timezone are your hours?	Contact_Us	Contact_Us
+SynData23Nov_00682	How do I send a picture of my order?	Contact_Us	Contact_Us
+SynData23Nov_00683	Who do I email to send a picture?	Contact_Us	Contact_Us
+SynData23Nov_00684	How do I talk to someone from customer service?	Contact_Us	Contact_Us
+SynData23Nov_00685	I bought jacket and now its on sale. Can you price match?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00686	Do you guys price match?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00687	Do you guys price match other retailers?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00688	Does Columbia price match?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00689	Does Sorel price match?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00690	Does Mountain Hardwear price match?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00691	Can you match the sale price?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00692	Can you match the price when it was on sale?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00693	Can I get it for the price when it was on sale?	Discounts_Issues	Discounts_Issues
+SynData23Nov_00694	How do I clean my Montrail shoes?	Footwear_Care	Footwear_Care
+SynData23Nov_00695	How do I clean my boots?	Footwear_Care	Footwear_Care
+SynData23Nov_00696	How do I clean these shoes?	Footwear_Care	Footwear_Care
+SynData23Nov_00697	How do I clean these boots?	Footwear_Care	Footwear_Care
+SynData23Nov_00698	How do I clean Columbia shoes?	Footwear_Care	Footwear_Care
+SynData23Nov_00699	How do I clean Sorel shoes?	Footwear_Care	Footwear_Care
+SynData23Nov_00700	How do I clean Sorel boots?	Footwear_Care	Footwear_Care
+SynData23Nov_00701	Prevent the rubber from cracking	Footwear_Care	Footwear_Care
+SynData23Nov_00702	Do these shoes stain easy?	Footwear_Care	Footwear_Care
+SynData23Nov_00703	Do these shoes stain easy?	Footwear_Care	Footwear_Care
+SynData23Nov_00704	Are your shoes stain proof?	Footwear_Care	Footwear_Care
+SynData23Nov_00705	Do I need to treat my shoes to be waterproof?	Footwear_Care	Footwear_Care
+SynData23Nov_00706	Will I need to retreat my shoes to keep them waterproof?	Footwear_Care	Footwear_Care
+SynData23Nov_00707	How can I make my shoes waterproof again?	Footwear_Care	Footwear_Care
+SynData23Nov_00708	My gift card is showing zero	GiftCard_Query	GiftCard_Query
+SynData23Nov_00709	There is no balance on my gift card	GiftCard_Query	GiftCard_Query
+SynData23Nov_00710	How do I check the balance on my gift card?	GiftCard_Query	GiftCard_Query
+SynData23Nov_00711	Gift card isn't working	GiftCard_Query	GiftCard_Query
+SynData23Nov_00712	Where do I enter the gift card?	GiftCard_Query	GiftCard_Query
+SynData23Nov_00713	What box do I enter the gift card?	GiftCard_Query	GiftCard_Query
+SynData23Nov_00714	Where is the gift card PIN?	GiftCard_Query	GiftCard_Query
+SynData23Nov_00715	I scratched off the PIN	GiftCard_Query	GiftCard_Query
+SynData23Nov_00716	What is the gift card PIN?	GiftCard_Query	GiftCard_Query
+SynData23Nov_00717	There is no PIN on my gift card	GiftCard_Query	GiftCard_Query
+SynData23Nov_00718	I'm returning a gift I received 	GiftCard_Query	GiftCard_Query
+SynData23Nov_00719	I received a gift and it’s the wrong size	GiftCard_Query	GiftCard_Query
+SynData23Nov_00720	How do gift returns work	GiftCard_Query	GiftCard_Query
+SynData23Nov_00721	I placed an order but haven't received my points	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00722	Where are my points?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00723	How long does it take for points to turn into a certificate?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00724	I have points but no certificate	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00725	How do I use my points?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00726	Where do I use my points?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00727	I want to use my points	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00728	It wont let me use my points	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00729	Is it free to sign up?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00730	How much does it cost to sign up?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00731	Free to sign up	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00732	Is Greater Rewards free?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00733	How much does Greater Rewards cost?	GreaterRewards_Query	GreaterRewards_Query
+SynData23Nov_00734	Do you have a discount for first time buyers?	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00735	First time discount	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00736	Promo code for first time buyer	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00737	When will I receive my new member discount?	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00738	How do I receive my new member discount?	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00739	Where is my new member discount?	GRewards_Benefits	GRewards_Benefits
+SynData23Nov_00740	What are related products to shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00741	What are related products to long sleeve shirts	Shopping_Query	Shopping_Query
+SynData23Nov_00742	What are related products to long sleeve tops 	Shopping_Query	Shopping_Query
+SynData23Nov_00743	What are related products to sweatshirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00744	What are related products to hoodies 	Shopping_Query	Shopping_Query
+SynData23Nov_00745	What are related products to button downs	Shopping_Query	Shopping_Query
+SynData23Nov_00746	What are related products to button down shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00747	What are related products to short sleeve shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00748	What are related products to t-shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00749	What are related products to tshirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00750	What are related products to t shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00751	What are related products to baselayer shirts	Shopping_Query	Shopping_Query
+SynData23Nov_00752	What are related products to under shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00753	What are related products to casual shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00754	What are related products to polos 	Shopping_Query	Shopping_Query
+SynData23Nov_00755	What are related products to polo shirts	Shopping_Query	Shopping_Query
+SynData23Nov_00756	What are related products to hiking shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00757	What are related products to exercise shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00758	What are related products to fishing shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00759	What are related products to pfg shirts 	Shopping_Query	Shopping_Query
+SynData23Nov_00760	What are related products to PFG shirts	Shopping_Query	Shopping_Query
+SynData23Nov_00761	What are related products to bags 	Shopping_Query	Shopping_Query
+SynData23Nov_00762	What are related products to backpacks 	Shopping_Query	Shopping_Query
+SynData23Nov_00763	What are related products to back packs 	Shopping_Query	Shopping_Query
+SynData23Nov_00764	What are related products to packs 	Shopping_Query	Shopping_Query
+SynData23Nov_00765	What are related products to hiking packs 	Shopping_Query	Shopping_Query
+SynData23Nov_00766	What are related products to napsacks	Shopping_Query	Shopping_Query
+SynData23Nov_00767	What are related products to knapsacks	Shopping_Query	Shopping_Query
+SynData23Nov_00768	What are related products to shoulder bags	Shopping_Query	Shopping_Query
+SynData23Nov_00769	What are related products to messenger bags	Shopping_Query	Shopping_Query
+SynData23Nov_00770	What are related products to coolers 	Shopping_Query	Shopping_Query
+SynData23Nov_00771	What are related products to ice chests 	Shopping_Query	Shopping_Query
+SynData23Nov_00772	What are related products to iceboxes 	Shopping_Query	Shopping_Query
+SynData23Nov_00773	What are related products to duffels 	Shopping_Query	Shopping_Query
+SynData23Nov_00774	What are related products to duffel bags 	Shopping_Query	Shopping_Query
+SynData23Nov_00775	What are related products to roller bags 	Shopping_Query	Shopping_Query
+SynData23Nov_00776	What are related products to suitcases 	Shopping_Query	Shopping_Query
+SynData23Nov_00777	What are related products to hardshell bags 	Shopping_Query	Shopping_Query
+SynData23Nov_00778	What are related products to hardshell suitcases 	Shopping_Query	Shopping_Query
+SynData23Nov_00779	What are related products to water bottles 	Shopping_Query	Shopping_Query
+SynData23Nov_00780	What are related products to tents 	Shopping_Query	Shopping_Query
+SynData23Nov_00781	What are related products to watches	Shopping_Query	Shopping_Query
+SynData23Nov_00782	What are related products to timepieces 	Shopping_Query	Shopping_Query
+SynData23Nov_00783	What are related products to sunglasses 	Shopping_Query	Shopping_Query
+SynData23Nov_00784	What are related products to glasses 	Shopping_Query	Shopping_Query
+SynData23Nov_00785	What are related products to specs	Shopping_Query	Shopping_Query
+SynData23Nov_00786	What are related products to spectacles 	Shopping_Query	Shopping_Query
+SynData23Nov_00787	What are related products to wallets 	Shopping_Query	Shopping_Query
+SynData23Nov_00788	What are related products to belts	Shopping_Query	Shopping_Query
+SynData23Nov_00789	What are related products to shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00790	What are related products to boots 	Shopping_Query	Shopping_Query
+SynData23Nov_00791	What are related products to hiking shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00792	What are related products to hiking boots 	Shopping_Query	Shopping_Query
+SynData23Nov_00793	What are related products to trail shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00794	What are related products to running shoes	Shopping_Query	Shopping_Query
+SynData23Nov_00795	What are related products to trail running shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00796	What are related products to casual shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00797	What are related products to sneakers 	Shopping_Query	Shopping_Query
+SynData23Nov_00798	What are related products to water shoes 	Shopping_Query	Shopping_Query
+SynData23Nov_00799	What are related products to boat shoes	Shopping_Query	Shopping_Query

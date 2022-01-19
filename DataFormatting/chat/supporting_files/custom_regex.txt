@@ -1,0 +1,2 @@
+1[zZ][\da-zA-Z]+	_class_tracking_number
+\b[0-9]{5}\b	_class_zipcode

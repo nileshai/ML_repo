@@ -1,0 +1,6 @@
+# Params for SSI model without stopwords
+classifierName = intent
+doStemming = true
+removeStopWords = true
+maxNBest = 10
+modelDescription = SVM model for Amex Upfront Menu 129 intents 
