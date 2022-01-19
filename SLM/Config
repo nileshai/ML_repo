@@ -1,5 +1,0 @@
-[params]
-output_dir=D:\test1\first
-SRILM_training_Tool=/rap/slm_tools/srilm-170/bin/i386-solaris/ngram-count
-ARPA_2_CFG_tool=/usr/local/bin/NGramToCFGTool.exe
-class_substitutions_file=E:\Data\CapOne\Transcriptions\Word Classes\Word_Classes_v2
